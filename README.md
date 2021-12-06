@@ -9,7 +9,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the process with the following:
 
 ```
-> git clone https://github.com/DanielPickens/Video-App-with-Twilio-and-Gatsby.git
+> git clone https://github.com/DanielPickens/Video-App-with-Twilio-7.git
 > cd Video App with Twilio and Gatsby
 > npm install
 > gatsby develop
