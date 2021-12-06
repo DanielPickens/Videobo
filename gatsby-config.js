@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Simple Video App`,
+    title: `Video App with Twilio-7_Dan`,
     description: `A simple video app, created using gatsby and twilio, for twilio hackathon on dev.to`,
-    author: `Nabendu Biswas`,
+    author: `Dan Pickens`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
