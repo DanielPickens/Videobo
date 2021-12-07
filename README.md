@@ -1,5 +1,5 @@
 # Video App with Twilio and Gatsby
-This web-app was created using gatsbyjs and twilio video api. This is a very Simple Video app, which can be created with ease and deployed in no time with netlify. 
+My video web-app created using gatsby.js and the twilio video api. 
 
 ### Getting Started
 
