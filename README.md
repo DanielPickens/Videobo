@@ -18,7 +18,7 @@ Checkout this repo, install dependencies, then start the process with the follow
 > npm install
 > gatsby develop
 ```
-## Demo Link
+## Vercel Deployment:
 Hosted on vercel [here] (https://video-app-with-twilio.vercel.app))
 
 #### Not Familiar with Git?
