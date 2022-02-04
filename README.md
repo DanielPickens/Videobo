@@ -19,7 +19,7 @@ Checkout this repo, install dependencies, then start the process with the follow
 > gatsby develop
 ```
 ## Vercel Deployment:
-Hosted on vercel [here] (https://video-app-with-twilio.vercel.app))
+Hosted on vercel: (https://video-app-with-twilio.vercel.app))
 
 #### Not Familiar with Git?
 Click [here](https://github.com/) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and
