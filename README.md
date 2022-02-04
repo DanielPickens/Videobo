@@ -1,4 +1,4 @@
-# Video App with Twilio and Gatsby
+# Video App with twilio api and gatsby.js
 My video communication application interface that makes rest api calls using the Twilio 7 api. Application is also using gatsby.js on frontend. 
 
 
