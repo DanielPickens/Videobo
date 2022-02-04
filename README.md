@@ -1,5 +1,5 @@
 # Video App with Twilio and Gatsby
-My video web-app created using gatsby.js and the twilio video api. 
+My video communication application interface that makes rest api calls using the Twilio 7 api. Application is also using gatsby.js on frontend. 
 
 
 ### Getting Started
@@ -7,23 +7,24 @@ My video web-app created using gatsby.js and the twilio video api.
 
 
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the process with the following:
-
-```
-> git clone https://github.com/DanielPickens/Video-App-with-Twilio-7.git
-> cd Video App with Twilio and Gatsby
-> npm install
-> gatsby develop
 ```
 ## Vercel Deployment:
 Hosted on vercel: (https://video-app-with-twilio.vercel.app))
 
-#### Not Familiar with Git?
-Click [here](https://github.com/) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and
+#### Development Dependencies:
 ```
-> npm install
-> gatsby develop
+git clone https://github.com/DanielPickens/Video-App-with-Twilio-7
+Cd videoappwithtwilio7
+
 ```
+
+Development:
+```
+npm install
+gatsby develop
+```
+
+#### Contributing:
+
+I welcome any recommendations and / or any contributions deemed a advantageous enhancement for the application. Please send a PR and I'll review as needed. 
+
