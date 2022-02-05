@@ -22,7 +22,7 @@ const LoginForm = ({ storeToken, storeName }) => {
 
     return (
         <section className={styles.contact}>
-            <h3>Login Credentials</h3>
+            <h3>Login</h3>
             <div className={styles.center}>
             <form onSubmit={handleSubmit}>
                 <div>
