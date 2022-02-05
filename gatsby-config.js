@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Video App with Twilio-7_Dan`,
-    description: `A simple video app, created using gatsby and twilio.`,
-    author: `Dan Pickens`,
+    title: `Video Application`,
+    description: `A simple video app.`,
+    author: `Daniel Pickens`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -28,7 +28,6 @@ module.exports = {
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    
   ],
 }
