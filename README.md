@@ -12,6 +12,8 @@ My video communication application interface that makes rest api calls using the
 Hosted on vercel: (https://video-app-with-twilio.vercel.app))
 
 #### Development Dependencies and app clone:
+npm
+gatsby
 ```
 git clone https://github.com/DanielPickens/Video-App-with-Twilio-7
 Cd videoappwithtwilio7
