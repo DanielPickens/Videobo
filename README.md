@@ -1,6 +1,6 @@
 # Video App with Twilio API and Gatsby.js
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg.svg)](https://forthebadge.com)
+
 
 
 
