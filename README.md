@@ -31,5 +31,5 @@ gatsby develop
 
 #### Contributing:
 
-I welcome any recommendations and / or any contributions deemed an advantageous enhancement for the application. Please send a PR and I'll review as needed. 
+I welcome any recommendations and / or any contributions deemed a advantageous enhancement for the application. Please send a PR and I'll review as needed. 
 
