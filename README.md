@@ -1,7 +1,7 @@
 # Video App with Twilio API and Gatsby.js
 My video communication application interface that makes rest api calls using the Twilio 7 api. Application is also using gatsby.js on frontend. 
 
-Uses graphql query to automate for query as a  placeholder image for relative path for data return on the call for placeholder image in data as a parameter pass value.
+Uses graphql query to automate api call as a  placeholder image for relative path for data return on the call reference to placeholder image in data as a parameter pass value.
 
 
 ### Getting Started
