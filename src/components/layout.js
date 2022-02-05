@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-        Copyright © <a href="https://github.com/DanielPickens/">VideoApp With Twilio-7</a>, {new Date().getFullYear()},
+        Copyright © <a href="https://github.com/DanielPickens/">Daniel Pickens-7</a>, {new Date().getFullYear()},
         All rights reserved
         </footer>
       </div>
