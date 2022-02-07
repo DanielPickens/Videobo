@@ -16,7 +16,6 @@ Uses graphql query to automate api call as a constant placeholder image for rela
 
 
 
-
 ## Vercel Deployment:
 Hosted on vercel: (https://video-app-with-twilio.vercel.app))
 
