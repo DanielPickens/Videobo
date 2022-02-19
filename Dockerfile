@@ -1,20 +1,14 @@
-FROM node:alpine
+FROM node:12.18.3
 
-RUN apk add --no-cache \
 
-    util-linux openssl sudo \
+RUN git clone https://github.com/DanielPickens/Video-App-with-Twilio-7
 
-    python g++ \
+# Change directories into what got checked out.
+WORKDIR /Video-App-with-Twilio-7
+# All of the files are already there, so we only need to
+RUN npm install
 
-    autoconf automake libtool gcc make musl-dev file pkgconfig nasm \
-
-    vips \
- && rm -fR /var/cache/apk/*
-
-#
 EXPOSE 8000 9000
 
-RUN yarn global add gatsby-cli && yarn cache clean
 
-WORKDIR /workspace
 CMD ["gatsby", "develop", "-H", "0.0.0.0" ]
