@@ -36,6 +36,10 @@ gatsby develop
 ```
 
 # Contributions:
-
-I welcome any recommendations and / or any contributions deemed a advantageous enhancement for the application. Please send a PR and I'll review as needed. 
+ Steps to contribute:
+- Fork the project.
+- Make your feature addition or bug fix.
+- Add tests for it. This is important so that we don't break it in a future version unintentionally.
+- Commit. Do not alter package.json, version, or history. (If you want to have your own version, that is fine, but bump version in a commit by itself that can be ignored when it gets pulled.)
+- Submit a pull request. 
 
