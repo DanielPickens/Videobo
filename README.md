@@ -35,7 +35,7 @@ npm install
 gatsby develop
 ```
 
-# Contributions:
+# Contributing:
  Steps to contribute:
 - Fork the project.
 - Make your feature addition or bug fix.
