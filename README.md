@@ -6,9 +6,9 @@
 
 
 
-My video communication application interface that makes rest api calls using the Twilio 7 api. Application is also using gatsby.js on frontend. 
+My video communication application that makes rest api calls using the Twilio REST api. Videobo is also using gatsby.js on frontend. 
 
-Uses graphql query to automate api call as a constant placeholder image for relative path to return on the call reference to placeholder image in data as a parameter pass value. This gives the construct requests that pull data from multiple data sources in a single API call and adds flexibility to add or deprecate fields without impacting future existing queries.
+Videobo uses graphql query to automate a api call as a constant placeholder image for relative path to return on the call reference to placeholder image in data as a parameter pass value. This gives the construct requests that pull data from multiple data sources in a single API call and adds flexibility to add or deprecate fields without impacting future existing queries.
 
 
 ### Getting Started
@@ -24,8 +24,8 @@ npm
 
 gatsby
 ```
-git clone https://github.com/DanielPickens/Video-App-with-Twilio-7
-Cd videoappwithtwilio7
+git clone https://github.com/DanielPickens/Videobo
+Cd Videobo
 
 ```
 
