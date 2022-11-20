@@ -1,10 +1,10 @@
 FROM node:12.18.3
 
 
-RUN git clone https://github.com/DanielPickens/Video-App-with-Twilio-7
+RUN git clone https://github.com/DanielPickens/Videobo
 
 # Change directories into what got checked out.
-WORKDIR /Video-App-with-Twilio-7
+WORKDIR /Videobo
 # All of the files are already there, so we only need to
 RUN npm install
 
