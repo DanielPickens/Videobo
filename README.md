@@ -6,9 +6,9 @@
 
 
 
-My video communication application that makes rest api calls using the Twilio REST api. Videobo is also using gatsby.js on frontend. 
+My video application that makes rest api calls using the Twilio REST api. Videobo is also using gatsby.js on frontend. 
 
-Videobo uses graphql query to automate a api call as a constant placeholder image for relative path to return on the call reference to placeholder image in data as a parameter pass value. This gives the construct requests that pull data from multiple data sources in a single API call and adds flexibility to add or deprecate fields without impacting future existing queries.
+Videobo uses graphql query to make api calls as a constant placeholder image for relative path to return on the call reference to placeholder image in data as a parameter pass refernce value. This gives the construct requests that pull data from multiple data sources in a single API call and adds flexibility to add or deprecate fields without impacting future existing queries.
 
 
 ### Getting Started
@@ -17,7 +17,7 @@ Videobo uses graphql query to automate a api call as a constant placeholder imag
 
 
 ## Vercel Deployment:
-Hosted on vercel: (https://video-app-with-twilio.vercel.app))
+Hosted on vercel: (https://videobo.vercel.app/))
 
 #### Development Dependencies and app clone:
 npm
