@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Daniel Pickens",
   "dependencies": {
+    "8": "^0.0.1",
     "axios": "^1.1.3",
     "gatsby": "^5.0.1",
     "gatsby-image": "^2.3.1",

@@ -1997,9 +1997,9 @@
     "form-data" "^3.0.0"
 
 "@types/node@*", "@types/node@>=10.0.0":
-  "integrity" "sha512-CRpX21/kGdzjOpFsZSkcrXMGIBWMGNIHXXBVFSH+ggkftxg+XYP20TESbh+zFvFj3EQOl5byk0HTRn1IL6hbqg=="
-  "resolved" "https://registry.npmjs.org/@types/node/-/node-18.11.9.tgz"
-  "version" "18.11.9"
+  "integrity" "sha512-uM4mnmsIIPK/yeO+42F2RQhGUIs39K2RFmugcJANppXe6J1nvH87PvzPZYpza7Xhhs8Yn9yIAVdLZ84z61+0xQ=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-13.11.0.tgz"
+  "version" "13.11.0"
 
 "@types/node@^8.5.7":
   "integrity" "sha512-tktOkFUA4kXx2hhhrB8bIFb5TbwzS4uOhKEmwiD+NoiL0qtP2OQ9mFldbgD4dV1djrlBYP6eBuQZiWjuHUpqFw=="
@@ -2276,6 +2276,11 @@
   "integrity" "sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ=="
   "resolved" "https://registry.npmjs.org/@xtuc/long/-/long-4.2.2.tgz"
   "version" "4.2.2"
+
+"8@^0.0.1":
+  "integrity" "sha512-MPiOAlzVNIMcfUI/2kcUYRvGb9KROnAkOy9R7+47zwpAGlS7vkzfd8ivRpXi6dPfhjzDrzh0okNgczo3x6EUsQ=="
+  "resolved" "https://registry.npmjs.org/8/-/8-0.0.1.tgz"
+  "version" "0.0.1"
 
 "abortcontroller-polyfill@^1.1.9":
   "integrity" "sha512-JMJ5soJWP18htbbxJjG7bG6yuI6pRhgJ0scHHTfkUjf6wjP912xZWvM+A4sJK3gqd9E8fcPbDnOefbA9Th/FIQ=="
