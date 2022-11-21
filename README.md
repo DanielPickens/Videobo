@@ -6,7 +6,7 @@
 
 
 
-My video application that makes rest api calls using the Twilio REST api. Videobo is also using gatsby.js on frontend. 
+My video application that makes rest api calls using the Twilio REST api. Videobox is also using gatsby.js on frontend. 
 
 Videobox uses graphql query to make api calls as a constant placeholder image for relative path to return on the call reference to placeholder image in data as a parameter pass refernce value. This gives the construct requests that pull data from multiple data sources in a single API call and adds flexibility to add or deprecate fields without impacting future existing queries.
 
