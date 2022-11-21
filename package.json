@@ -175,7 +175,8 @@
     "gatsby": "^5.0.1"
   },
   "scripts": {
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "start": "gatsby start"
   },
   "repository": {
     "type": "git",
