@@ -175,8 +175,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "gatsby build",
-    "start": "gatsby start"
+    "test": "test"
   },
   "repository": {
     "type": "git",
