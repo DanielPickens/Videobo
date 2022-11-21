@@ -1,10 +1,10 @@
 FROM node:12.18.3
 
 
-RUN git clone https://github.com/DanielPickens/Videobo
+RUN git clone https://github.com/DanielPickens/Videobox
 
 # Change directories into what got checked out.
-WORKDIR /Videobo
+WORKDIR /Videobox
 # All of the files are already there, so we only need to
 RUN npm install
 
