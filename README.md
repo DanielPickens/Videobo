@@ -16,8 +16,8 @@ Videobox uses graphql query to make api calls as a constant placeholder image fo
 
 
 
-## Vercel Netlify:
-Hosted on vercel: (https://videoboxhome.netlify.app/))
+## Netlify Deployment:
+Hosted on netlify: (https://videoboxhome.netlify.app/))
 
 #### Development Dependencies and app clone:
 npm
