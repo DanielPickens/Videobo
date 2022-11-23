@@ -1,4 +1,4 @@
-# Videobox
+# Videobo
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -6,9 +6,9 @@
 
 
 
-My video application that makes rest api calls using the Twilio REST api. Videobox is also using gatsby.js on frontend. 
+My video application that makes rest api calls using the Twilio REST api. Videobo is also using gatsby.js on frontend. 
 
-Videobox uses a graphql query to make api calls as a constant placeholder image for relative path to return on the call reference to placeholder image in data as a parameter pass refernce value. This gives the construct requests that pull data from multiple data sources in a single API call and adds flexibility to add or deprecate fields without impacting future existing queries.
+Videobo uses a graphql query to make api calls as a constant placeholder image for relative path to return on the call reference to placeholder image in data as a parameter pass refernce value. This gives the construct requests that pull data from multiple data sources in a single API call and adds flexibility to add or deprecate fields without impacting future existing queries.
 
 
 ### Getting Started
@@ -16,15 +16,15 @@ Videobox uses a graphql query to make api calls as a constant placeholder image 
 
 
 
-## Netlify Deployment:
-Hosted on netlify: (https://videoboxhome.netlify.app/))
+## Vercel Deployment:
+Hosted on netlify: (https://https://videobo.vercel.app//))
 
 #### Development Dependencies and app clone:
 npm
 
 gatsby
 ```
-git clone https://github.com/DanielPickens/Videobox
+git clone https://github.com/DanielPickens/Videobo
 Cd Videobox
 
 ```
