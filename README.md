@@ -17,7 +17,7 @@ Videobo uses a graphql query to make api calls as a constant placeholder image f
 
 
 ## Vercel Deployment:
-Hosted on netlify: (https://https://videobo.vercel.app//))
+Hosted on netlify: (https://videobo.vercel.app/)
 
 #### Development Dependencies and app clone:
 npm
