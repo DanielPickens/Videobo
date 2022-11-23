@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Videobox`,
+    title: `Videobo`,
     description: `A simple video app.`,
     author: `Daniel Pickens`,
   },
